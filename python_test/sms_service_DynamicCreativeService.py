@@ -1,6 +1,5 @@
 #coding=utf-8
-from ApiSDKJsonClient import *
-
+from ApiSDKJsonClient import ApiSDKJsonClient
 
 class sms_service_DynamicCreativeService(ApiSDKJsonClient):
 

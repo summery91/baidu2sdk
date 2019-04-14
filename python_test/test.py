@@ -2,8 +2,8 @@
 import traceback as tb
 import random
 import string
-# from ApiSDKJsonClient import *
-from sms_service_ReportService import *
+# from ApiSDKJsonClient import ApiSDKJsonClient
+from sms_service_ReportService import sms_service_ReportService
 if __name__ == "__main__":
     try:
         print("###########################test report_service begin.#################################")

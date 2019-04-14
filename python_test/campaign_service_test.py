@@ -2,7 +2,7 @@
 import traceback as tb
 import random
 import string
-from ApiSDKJsonClient import *
+from ApiSDKJsonClient import ApiSDKJsonClient
 from sms_service_CampaignService import *
 def random_name():
     return "".join(random.sample(['a','b','c','d','e','f','g','h','i','j','k','l','m','n'], 12)).replace(" ","")

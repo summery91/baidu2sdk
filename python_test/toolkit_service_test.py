@@ -1,6 +1,6 @@
 #coding=utf-8
 import traceback as tb
-from ApiSDKJsonClient import *
+from ApiSDKJsonClient import ApiSDKJsonClient
 from sms_service_ToolkitService import *
 
 if __name__ == "__main__":

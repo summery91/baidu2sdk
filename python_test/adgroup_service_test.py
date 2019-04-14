@@ -2,7 +2,7 @@
 import traceback as tb
 import random
 import string
-from ApiSDKJsonClient import *
+from ApiSDKJsonClient import ApiSDKJsonClient
 from sms_service_AdgroupService import *
 CAMPAIGNID = 66779620
 MAXPRICE=30
